@@ -1,7 +1,7 @@
 ﻿@model UsuariosListadoViewModel
 @{
 	ViewData["Title"] = "Listado de usuarios";
-	Layout = "../shared/_layout";
+	Layout = "../shared/_Layout";
 }
 
 <h1>Listado de Usuarios</h1>
@@ -27,10 +27,10 @@
 						<td>
 							<button class="btn btn-primary me-2"
 								asp-action="HacerAdmin" 
-							asp-route="@usuario.Email">Hacer Admin</button>
+							asp-route-email="@usuario.Email">Hacer Admin</button>
 							<button class="btn btn-secondary me-2"
 									asp-action="RemoverAdmin"
-									asp-route="@usuario.Email">
+									asp-route-email="@usuario.Email">
 								Remover Admin
 							</button>
 						</td>
