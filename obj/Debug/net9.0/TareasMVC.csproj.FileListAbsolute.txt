@@ -231,3 +231,4 @@ C:\CursosValen\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.pdb
 C:\CursosValen\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.genruntimeconfig.cache
 C:\CursosValen\TareasMVC\TareasMVC\obj\Debug\net9.0\ref\TareasMVC.dll
 C:\CursosValen\TareasMVC\TareasMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CursosValen\TareasMVC\TareasMVC\obj\Debug\net9.0\TareasMVC.sourcelink.json
